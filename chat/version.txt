@@ -1,1 +1,1 @@
-0.8.5a standalone
+0.8.5 SMF
