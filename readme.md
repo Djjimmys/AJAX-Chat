@@ -1,8 +1,8 @@
 ![Alt text](/Frug/AJAX-Chat/wiki/MediaWikiSidebarLogo.png)
-AJAX Chat 0.8.5a for phpBB3
+AJAX Chat 0.8.5a for vBulletin
 =========
 
-This is the version of Blueimp's AJAX Chat for integration with phpBB3.
+This is the version of Blueimp's AJAX Chat for integration with vBulletin.
 
 AJAX stands for "Asynchronous JavaScript and XML".
 The AJAX Chat clients (the user browsers) use JavaScript to query the web server for updates.
